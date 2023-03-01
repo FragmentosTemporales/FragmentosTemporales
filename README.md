@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FragmentosTemporales
 - 👀 I’m interested in learning to program
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning SQL && Python
 - 💞️ I’m looking to collaborate on Google 
 - 📫 How to reach me fragmentos.temporales@gmail.com
 
