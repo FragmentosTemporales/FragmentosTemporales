@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @FragmentosTemporales
-- 👀 I’m interested in learning to program
-- 🌱 I’m currently learning Fullstack Developer
-- 💞️ I’m looking to collaborate on Google 
+- 👋 Hi, I’m Cristian Rivera Acevedo
+- 👀 I’m interested in learning Python
+- 🌱 I’m currently learning Fullstack Developer in 4Geeks Academy Chile
+- 💞️ I’m looking to collaborate on New Zeland
 - 📫 How to reach me fragmentos.temporales@gmail.com
 
 <!---
