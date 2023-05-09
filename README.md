@@ -1,4 +1,4 @@
-### Hi there, I'm Cristian - aka [Fragmentos Temporales] 👋 
+### Hi there, I'm Cristian - Fragmentos Temporales 👋 
 
 ## I'm a Father, Developer, and Risk Prevention Engineer!!
 - 🌱 I’m currently learning Python
