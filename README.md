@@ -8,6 +8,9 @@
 
 ### Connect with me:
 
+[![linkedin](./img/linkedin-dark.svg)]
+&nbsp;&nbsp;
+[![instagram](./img/instagram-light.svg)]
 
 
 
@@ -35,3 +38,4 @@
 ---
 [linkedin]: https://www.linkedin.com/in/fragmentostemporales
 [github]: https://github.com/FragmentosTemporales
+[instagram]: https://www.instagram.com/_domador_de_ovnis_/
