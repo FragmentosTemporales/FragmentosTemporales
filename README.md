@@ -7,15 +7,7 @@
 - ⚡ Fun fact: I love play guitar and League of Legends
 
 ### Connect with me:
-
-[![linkedin](./img/linkedin-dark.svg)]
-&nbsp;&nbsp;
-[![instagram](./img/instagram-light.svg)]
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[<img align="left" alt="linkedin" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
 
 
 
