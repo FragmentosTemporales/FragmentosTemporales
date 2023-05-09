@@ -37,8 +37,10 @@
 
 ---
 <br />
+<br />
 ### Top Langs
-
+<br />
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FragmentosTemporales)](https://github.com/FragmentosTemporales/github-readme-stats)
 
 
