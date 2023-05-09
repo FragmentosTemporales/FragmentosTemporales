@@ -35,12 +35,13 @@
 <img align="left" alt="FragmentosTemporales GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FragmentosTemporales&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 <br />
-
+---
+<br />
 ### Top Langs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FragmentosTemporales)](https://github.com/FragmentosTemporales/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FragmentosTemporales&size_weight=0.5&count_weight=0.5)](https://github.com/FragmentosTemporales/github-readme-stats)
+
 
 [linkedin]: https://www.linkedin.com/in/fragmentostemporales
 [github]: https://github.com/FragmentosTemporales
