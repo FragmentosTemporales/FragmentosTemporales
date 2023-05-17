@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Learn more about IA
-- ⚡ Fun fact: I love play guitar and League of Legends
+- ⚡ Fun fact: I love playing guitar and playing League of Legends
 
 ### Connect with me:
 [<img align="left" alt="linkedin" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
