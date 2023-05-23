@@ -38,4 +38,4 @@
 
 [linkedin]: https://www.linkedin.com/in/fragmentostemporales
 [github]: https://github.com/FragmentosTemporales
-[instagram]: https://www.instagram.com/_domador_de_ovnis_/
+[instagram]: https://www.instagram.com/fragmentos_temporales/
