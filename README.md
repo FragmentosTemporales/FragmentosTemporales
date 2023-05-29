@@ -26,8 +26,7 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Vite" width="26px" src="https://www.bing.com/images/search?view=detailV2&ccid=F24Hpc1C&id=2935258426C1A106002A53B7EE2515D7F3FB70F0&thid=OIP.F24Hpc1CvAdlBi0W7qJMSAAAAA&mediaurl=https%3a%2f%2fseeklogo.com%2fimages%2fV%2fvite-logo-BFD4283991-seeklogo.com.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.176e07a5cd42bc0765062d16eea24c48%3frik%3d8HD789cVJe63Uw%26pid%3dImgRaw%26r%3d0&exph=300&expw=300&q=vite+icon&simid=608012286921088165&FORM=IRPRST&ck=477F29AB0C7579536C9AA72891F689C5&selectedIndex=0&idpp=overlayview&ajaxhist=0&ajaxserp=0" style="padding-right:10px;" />
-<img align="left" alt="Next.js" width="26px" src="https://damiandeluca.com.ar/wp-content/uploads/2019/07/next-js.png" style="padding-right:10px;" />
+<img align="left" alt="Next.js" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original-wordmark.svg" />
 
 
 <br />
