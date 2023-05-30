@@ -1,7 +1,7 @@
 ### Hi there, I'm Cristian - [Fragmentos Temporales][github] 👋 
 
 ## I'm a Father, Developer, and Risk Prevention Engineer!!
-- 🌱 I’m currently learning Next.Js
+- 🌱 I’m currently learning Next.Js 13
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2023 Goals: Learn more about IA.
 - ⚡ Fun fact: I love playing guitar and playing League of Legends.
