@@ -1,7 +1,7 @@
 ### Hi there, I'm Cristian - [Fragmentos Temporales][github] 👋 
 
 ## I'm a Father, Developer, and Risk Prevention Engineer!!
-- 🌱 I’m currently learning Python & Flask
+- 🌱 I’m currently learning Docker
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2023 Goals: Learn more about IA.
 - ⚡ Fun fact: I love playing guitar and playing League of Legends.
