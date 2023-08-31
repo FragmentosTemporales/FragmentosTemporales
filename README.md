@@ -9,6 +9,7 @@
 [<img align="left" alt="linkedin" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
 
 <br />
+<hr/>
 
 ### Languages:
 
