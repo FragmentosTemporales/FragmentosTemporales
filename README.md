@@ -27,6 +27,7 @@
 <img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Next.js" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original-wordmark.svg" />
 <img align="left" alt="Next.js" width="26px" src="https://img.icons8.com/?size=512&id=TkG10j-DmXkU&format=png" />
+<img align="left" alt="Pandas" width="26px" src="[https://img.icons8.com/?size=512&id=TkG10j-DmXkU&format=png](https://www.adictosaltrabajo.com/wp-content/uploads/2020/12/1200px-Pandas_logo.svg_.png)" />
 
 <br />
 
