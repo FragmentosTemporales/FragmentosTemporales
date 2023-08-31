@@ -34,7 +34,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Jupyter Notebook" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffriconix.com%2Ficon%2Ffi-stluxl-jupyter-notebook%2F&psig=AOvVaw1IbrqSqvOvI1xaFct9nIyc&ust=1693602635968000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjOgc_nh4EDFQAAAAAdAAAAABAI" style="padding-right:10px;" />
+<img align="left" alt="Jupyter Notebook" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fjupyter%2F&psig=AOvVaw3__jObcYof0-9BsQpnhV3H&ust=1693602696982000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMiP8-vnh4EDFQAAAAAdAAAAABAD" style="padding-right:10px;" />
 
 <br />
 <hr/>
