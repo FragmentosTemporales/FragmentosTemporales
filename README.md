@@ -23,7 +23,7 @@
 <img align="left" alt="SQL Alchemy" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="FLask" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Next.js" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original-wordmark.svg" />
-<img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/800px-Pandas_mark.svg.png" />
+<img align="left" alt="Pandas" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original-wordmark.svg" />
 
 <br />
 
