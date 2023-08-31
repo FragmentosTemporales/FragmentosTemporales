@@ -36,7 +36,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
 <br />
-
+<hr/>
 
 ## GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FragmentosTemporales&theme=highcontrast&hide_border=false)<br/>
