@@ -1,8 +1,8 @@
 ## Hi there, I'm Cristian - [Fragmentos Temporales][github] 👋 
 
 ### I'm a Father, Developer, and Risk Prevention Engineer!!
-- 🌱 I’m currently learning Pandas, Numpy & Jupyter Notebook.
-- 🥅 2023 Goals: Learn more about IA.
+- 🌱 I’m currently learning Wordpress!
+- 🥅 2024 Goals: Learn more about Machine Learning.
 - ⚡ Fun fact: I love playing guitar and playing League of Legends.
 
 <hr/>
