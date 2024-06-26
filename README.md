@@ -3,7 +3,6 @@
 ### I'm a Father, Developer, and Risk Prevention Engineer!!
 - 🌱 I’m currently learning Python!
 - 🥅 2024 Goals: Learn more about Python & JavaScript.
-- ⚡ Fun fact: I love playing guitar and playing League of Legends.
 
 <hr/>
 
