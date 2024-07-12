@@ -56,9 +56,8 @@
 <br />
 <hr/>
 
-### Actualmente trabajo en DOMINION - GLOBAL:
-<img align="left" alt="DOMINION" width="40px" src="https://asset.brandfetch.io/idN1_g7obl/idcWKqZqGC.jpeg" style="padding-right:10px; background-color: #333; padding: 5px; border-radius: 5px;" /> - ANALISTA SOPORTE JUNIOR
-
+### Actualmente trabajo en DOMINION GLOBAL como ANALISTA SOPORTE JUNIOR
+<img align="left" alt="DOMINION" width="40px" src="https://asset.brandfetch.io/idN1_g7obl/idcWKqZqGC.jpeg" style="padding-right:10px; background-color: #333; padding: 5px; border-radius: 5px;" /> 
 
 <hr/>
 
