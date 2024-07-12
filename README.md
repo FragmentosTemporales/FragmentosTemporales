@@ -1,12 +1,12 @@
-## Hi there, I'm Cristian - [Fragmentos Temporales][github] 👋 
+## Hola a todos, mi nombre es Cristian - [Fragmentos Temporales][github] 👋 
 
-### I'm a Father, Developer, and Risk Prevention Engineer!!
-- 🌱 I’m currently learning Python!
-- 🥅 2024 Goals: Learn more about Python & JavaScript.
+### Soy padre, Programador, e Ingeniero en Prevención de Riesgos!!
+- 🌱 Actualmente sigo aprendiendo de Python!
+- 🥅 Metas para el 2024: Aprender más de Python y Data Science.
 
 <hr/>
 
-### Languages:
+### Lenguajes que manejo:
 
 <img align="left" alt="Python" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px; background-color: #333; padding: 5px; border-radius: 5px;" />
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px; background-color: #333; padding: 5px; border-radius: 5px;" />
@@ -26,7 +26,7 @@
 
 <br /><br />
 
-### Tools:
+### Herramientas:
 
 <img align="left" alt="Docker" width="40px" src="https://img.icons8.com/?size=512&id=TkG10j-DmXkU&format=png" style="padding-right:10px; background-color: #333; padding: 5px; border-radius: 5px;" />
 <img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px; background-color: #333; padding: 5px; border-radius: 5px;" />
@@ -45,7 +45,7 @@
 
 <hr/>
 
-## GitHub Stats:
+## Estadísticas de Github:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FragmentosTemporales&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FragmentosTemporales&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -57,7 +57,7 @@
 
 <hr/>
 
-### Connect with me:
+### Contáctame aquí:
 [<img align="left" alt="linkedin" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" style="padding-right:10px; background-color: #333; padding: 5px; border-radius: 5px;" />][linkedin]
 
 <br />
