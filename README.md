@@ -20,8 +20,8 @@
 <img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px; background-color: #333; padding: 5px; border-radius: 5px;" />
 <img align="left" alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px; background-color: #333; padding: 5px; border-radius: 5px;" />
 <img align="left" alt="SQL Alchemy" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlalchemy/sqlalchemy-original.svg" style="padding-right:10px; background-color: #333; padding: 5px; border-radius: 5px;" />
-<img align="left" alt="FLask" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original-wordmark.svg" style="padding-right:10px; background-color: #333; padding: 5px; border-radius: 5px;" />
-<img align="left" alt="Next.js" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-line.svg" style="padding-right:10px; background-color: #333; padding: 5px; border-radius: 5px;" />
+<img align="left" alt="FLask" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original.svg" style="padding-right:10px; background-color: #333; padding: 5px; border-radius: 5px;" />
+<img align="left" alt="Next.js" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg" style="padding-right:10px; background-color: #333; padding: 5px; border-radius: 5px;" />
 <img align="left" alt="Pandas" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original-wordmark.svg" style="padding-right:10px; background-color: #333; padding: 5px; border-radius: 5px;" />
 <img align="left" alt="Numpy" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/numpy/numpy-original-wordmark.svg" style="padding-right:10px; background-color: #333; padding: 5px; border-radius: 5px;" />
 
