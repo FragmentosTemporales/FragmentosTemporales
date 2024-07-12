@@ -8,10 +8,10 @@
 
 ### Languages:
 
+<img align="left" alt="Python" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px; background-color: #333; padding: 5px; border-radius: 5px;" />
+<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px; background-color: #333; padding: 5px; border-radius: 5px;" />
 <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px; background-color: #333; padding: 5px; border-radius: 5px;" />
 <img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px; background-color: #333; padding: 5px; border-radius: 5px;" />
-<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px; background-color: #333; padding: 5px; border-radius: 5px;" />
-<img align="left" alt="Python" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px; background-color: #333; padding: 5px; border-radius: 5px;" />
 
 <br /><br />
 
