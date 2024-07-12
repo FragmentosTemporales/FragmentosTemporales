@@ -21,9 +21,9 @@
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="SQL Alchemy" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlalchemy/sqlalchemy-original.svg" style="padding-right:10px;" />
 <img align="left" alt="FLask" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Next.js" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-line.svg" />
-<img align="left" alt="Pandas" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original-wordmark.svg" />
-<img align="left" alt="Numpy" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/numpy/numpy-original-wordmark.svg" />
+<img align="left" alt="Next.js" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-line.svg" style="padding-right:10px;"  />
+<img align="left" alt="Pandas" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original-wordmark.svg" style="padding-right:10px;"  />
+<img align="left" alt="Numpy" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/numpy/numpy-original-wordmark.svg" style="padding-right:10px;"  />
 
 
 <br />
@@ -35,7 +35,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;"/>
 <img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Jupyter" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px; background-color: #384963;" />
+<img align="left" alt="Jupyter" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px" />
 <img align="left" alt="Selenium" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/selenium/selenium-original.svg" style="padding-right:10px;"/>
 
 <br />
