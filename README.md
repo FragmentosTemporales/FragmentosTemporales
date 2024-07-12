@@ -24,6 +24,7 @@
 <img align="left" alt="Next.js" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg" style="padding-right:10px; background-color: #333; padding: 5px; border-radius: 5px;" />
 <img align="left" alt="Pandas" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original-wordmark.svg" style="padding-right:10px; background-color: #333; padding: 5px; border-radius: 5px;" />
 <img align="left" alt="Numpy" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/numpy/numpy-original-wordmark.svg" style="padding-right:10px; background-color: #333; padding: 5px; border-radius: 5px;" />
+<img align="left" alt="Anaconda" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/anaconda/anaconda-original-wordmark.svg" style="padding-right:10px; background-color: #333; padding: 5px; border-radius: 5px;" />
 
 <br /><br />
 
