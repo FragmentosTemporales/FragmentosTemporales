@@ -59,12 +59,12 @@
 ### Actualmente trabajo en DOMINION GLOBAL como ANALISTA SOPORTE JUNIOR
 <img align="left" alt="DOMINION" width="40px" src="https://asset.brandfetch.io/idN1_g7obl/idcWKqZqGC.jpeg" style="padding-right:10px; background-color: #333; padding: 5px; border-radius: 5px;" /> 
 
+<br />
 <hr/>
 
 ### Contáctame en LinkedIn:
 [<img align="left" alt="linkedin" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" style="padding-right:10px; background-color: #333; padding: 5px; border-radius: 5px;" />][linkedin]
 
 <br />
-
 <hr/>
 
