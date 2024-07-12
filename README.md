@@ -35,6 +35,7 @@
 <img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Jupyter" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Selenium" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/selenium/selenium-original.svg" style="padding-right:10px;" />
 
 <br />
 <hr/>
