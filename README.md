@@ -1,6 +1,6 @@
 ## Hola a todos, mi nombre es Cristian - [Fragmentos Temporales][github] 👋 
 
-### Soy padre, Programador, e Ingeniero en Prevención de Riesgos!!
+### Soy Papá de Dante, Programador, e Ingeniero en Prevención de Riesgos!!
 - 🌱 Actualmente sigo aprendiendo de Python!
 - 🥅 Metas para el 2024: Aprender más de Python y Data Science.
 
@@ -57,7 +57,7 @@
 
 <hr/>
 
-### Contáctame aquí:
+### Contáctame en LinkedIn:
 [<img align="left" alt="linkedin" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" style="padding-right:10px; background-color: #333; padding: 5px; border-radius: 5px;" />][linkedin]
 
 <br />
