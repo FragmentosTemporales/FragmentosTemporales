@@ -3,6 +3,7 @@
 ### Soy Papá de Dante, Programador, e Ingeniero en Prevención de Riesgos!
 - 🌱 Actualmente aprendiendo WebScraping!
 - 🥅 Metas para el 2024: Aprender más de Python y Data Science.
+- 🥅 Metas para el 2025: Manejar estadística y Machine Learning.
 
 <hr/>
 
