@@ -1,4 +1,4 @@
-## Hola a todos, mi nombre es Cristian - [Fragmentos Temporales][github] 👋 
+## Hola a todos, mi nombre es Cristian - [Fragmentos Temporales][instagram] 👋 
 
 ### Programador Fullstack, con sólidos conocimientos en Python y Javascript
 - 🌱 Actualmente aprendiendo WebScraping!
