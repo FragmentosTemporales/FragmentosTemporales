@@ -1,6 +1,6 @@
 ## Hola a todos, mi nombre es Cristian - [Fragmentos Temporales][github] 👋 
 
-### Soy Papá de Dante, Programador, e Ingeniero en Prevención de Riesgos!
+### Programador Fullstack, con sólidos conocimientos en Python y Javascript
 - 🌱 Actualmente aprendiendo WebScraping!
 - 🥅 Metas para el 2024: Aprender más de Python y Data Science.
 - 🥅 Metas para el 2025: Manejar estadística y Machine Learning.
