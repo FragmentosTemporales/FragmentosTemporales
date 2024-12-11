@@ -1,9 +1,8 @@
 ## Hola a todos, mi nombre es Cristian - [Fragmentos Temporales][instagram] 👋 
 
 ### Programador Fullstack, con sólidos conocimientos en Python y Javascript
-- 🌱 Actualmente aprendiendo WebScraping!
-- 🥅 Metas para el 2024: Aprender más de Python y Data Science.
-- 🥅 Metas para el 2025: Manejar estadística y Machine Learning.
+- 🌱 Actualmente aprendiendo WebScraping, Microservicios y Amazon Web Service!
+- 🥅 Metas para el 2025: Convertirme en el mejor programador del mundo mundial.
 
 <hr/>
 
