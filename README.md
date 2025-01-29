@@ -1,7 +1,7 @@
 ## Hola a todos, mi nombre es Cristian - [Fragmentos Temporales][instagram] 👋 
 
 ### Programador Fullstack, con sólidos conocimientos en Python y Javascript
-- 🌱 Actualmente aprendiendo React Native!
+- 🌱 Actualmente aprendiendo React Native / Expo!
 - 🥅 Metas para el 2025: Desarrollar aplicaciones multiplataforma
 
 <hr/>
