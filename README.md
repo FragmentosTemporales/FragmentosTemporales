@@ -40,6 +40,7 @@
 <img align="left" alt="NPM" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/npm/npm-original-wordmark.svg" style="padding-right:10px" />
 <img align="left" alt="Postgres" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg" style="padding-right:10px" />
 <img align="left" alt="Redux" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redux/redux-original.svg" style="padding-right:10px" />
+<img align="left" alt="Amazon" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px" />
 
 <br /><br />
 
