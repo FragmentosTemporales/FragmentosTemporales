@@ -1,12 +1,14 @@
-# 👋 ¡Hola a todos! Soy Cristian – [Fragmentos Temporales][instagram]
+# 👋 ¡Hola a todos! Mi nombre es **Cristian** – [Fragmentos Temporales][instagram]
 
-### 👨‍💻 Desarrollador Fullstack apasionado por construir soluciones digitales eficientes y creativas.
+### 👨‍💻 Desarrollador Fullstack - **DevOps** -  apasionado por construir soluciones digitales eficientes y creativas.
 
-- 💻 Trabajo con **Python** y **JavaScript**, desarrollando desde APIs hasta interfaces interactivas.
-- ⚛️ Actualmente explorando el desarrollo móvil con **React Native** y **Expo**.
-- 📦 Experiencia con tecnologías como: Flask, FastAPI, Node.js, MongoDB, PostgreSQL, Pandas, entre otros.
-- 🎯 **Objetivo 2025**: Publicar y mantener al menos 2 aplicaciones **multiplataforma** (web y mobile).
-- 🧠 Siempre aprendiendo y buscando nuevos desafíos tecnológicos.
+- 💻 Trabajo con **Python** y **JavaScript**, desarrollando desde APIs hasta interfaces interactivas.  
+- ⚛️ Actualmente explorando el desarrollo móvil con **React Native** y **Expo**.  
+- ☁️ Experiencia en **Cloud (AWS)** para despliegue, integración y escalabilidad de aplicaciones.  
+- 📦 Manejo de tecnologías como Flask, FastAPI, Node.js, MongoDB, PostgreSQL, Pandas, entre otros.  
+- 🎯 **Objetivo 2025**: Publicar y mantener al menos 2 aplicaciones **multiplataforma** (web y mobile).  
+- 🧠 Siempre aprendiendo y buscando nuevos desafíos tecnológicos.  
+
 
 ---
 
