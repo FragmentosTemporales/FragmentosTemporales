@@ -6,7 +6,6 @@
 - ⚛️ Actualmente explorando el desarrollo móvil con **React Native** y **Expo**.  
 - ☁️ Experiencia en **Cloud (AWS)** para despliegue, integración y escalabilidad de aplicaciones.  
 - 📦 Manejo de tecnologías como Flask, FastAPI, Node.js, MongoDB, PostgreSQL, Pandas, entre otros.  
-- 🎯 **Objetivo 2025**: Publicar y mantener al menos 2 aplicaciones **multiplataforma** (web y mobile).  
 - 🧠 Siempre aprendiendo y buscando nuevos desafíos tecnológicos.  
 
 
