@@ -5,7 +5,7 @@
 - 💻 Trabajo con **Python** y **JavaScript**, desarrollando desde APIs hasta interfaces interactivas.  
 - ⚛️ Actualmente explorando el desarrollo móvil con **React Native** y **Expo**.  
 - ☁️ Experiencia en **Cloud (AWS)** para despliegue, integración y escalabilidad de aplicaciones.  
-- 📦 Manejo de tecnologías como Flask, FastAPI, Node.js, MongoDB, PostgreSQL, Pandas, entre otros.  
+- 📦 Manejo de tecnologías como Flask, FastAPI, Django, Node.js, MongoDB, PostgreSQL, Pandas, entre otros.  
 - 🧠 Siempre aprendiendo y buscando nuevos desafíos tecnológicos.  
 
 
