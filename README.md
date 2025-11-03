@@ -3,9 +3,9 @@
 ### 👨‍💻 Desarrollador Fullstack - **DevOps** -  apasionado por construir soluciones digitales eficientes y creativas.
 
 - 💻 Trabajo con **Python** y **JavaScript**, desarrollando desde APIs hasta interfaces interactivas.  
-- ⚛️ Actualmente explorando el desarrollo móvil con **React Native** y **Expo**.  
+- ⚛️ Actualmente explorando **Django** y **GraphQL**.  
 - ☁️ Experiencia en **Cloud (AWS)** para despliegue, integración y escalabilidad de aplicaciones.  
-- 📦 Manejo de tecnologías como Flask, FastAPI, Django, Node.js, MongoDB, PostgreSQL, Pandas, entre otros.  
+- 📦 Manejo de tecnologías como Flask, FastAPI, Django, Node.js, MongoDB, PostgreSQL, GraphQL, Pandas, entre otros.  
 - 🧠 Siempre aprendiendo y buscando nuevos desafíos tecnológicos.  
 
 
