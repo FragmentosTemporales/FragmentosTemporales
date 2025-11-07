@@ -29,4 +29,11 @@
 [instagram]: https://www.instagram.com/fragmentos_temporales/
 
 
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/s4il21?style=for-the-badge&color=00bfff&labelColor=0d1117&label=Followers)](https://github.com/S4IL21?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=s4il21&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views)
+
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00bfff&height=120&section=footer"/>
