@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1e90ff,100:00bfff&text=Hola,%20soy%20Cristian&fontColor=ffffff&desc=Python%20•%20Javascript%20•%20AWS&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:111827,50:6B7280,100:F3F4F6&text=Hola,%20soy%20Cristian&fontColor=ffffff&desc=Python%20%E2%80%A2%20Javascript%20%E2%80%A2%20AWS&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
 </p>
 
 ### 👨‍💻 Desarrollador Fullstack - **DevOps** -  apasionado por construir soluciones digitales eficientes y creativas.
@@ -47,9 +47,9 @@
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/FragmentosTemporales?style=for-the-badge&color=00bfff&labelColor=0d1117&label=Followers)](https://github.com/FragmentosTemporales?tab=followers)
-![Profile Views](https://komarev.com/ghpvc/?username=FragmentosTemporales&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/FragmentosTemporales?style=for-the-badge&color=8c9096&labelColor=0d1117&label=Followers)](https://github.com/FragmentosTemporales?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=FragmentosTemporales&style=for-the-badge&color=8c9096&labelColor=0d1117&label=Profile+Views)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00bfff&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:6B7280,100:F3F4F6&height=120&section=footer"/>
