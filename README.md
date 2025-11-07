@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1e90ff,100:00bfff&text=Hi,%20I'm%Cristian&fontColor=ffffff&desc=Python%20•%20Javascript%20•%20AWS&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1e90ff,100:00bfff&text=Hi,%20I'm% Cristian&fontColor=ffffff&desc=Python%20•%20Javascript%20•%20AWS&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
 </p>
 # 👋 ¡Hola a todos! Mi nombre es **Cristian** – [Fragmentos Temporales][instagram]
 
