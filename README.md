@@ -1,3 +1,4 @@
+<div align="center">
 # 👋 ¡Hola a todos! Mi nombre es **Cristian** – [Fragmentos Temporales][instagram]
 
 ### 👨‍💻 Desarrollador Fullstack - **DevOps** -  apasionado por construir soluciones digitales eficientes y creativas.
@@ -10,7 +11,6 @@
 
 
 ---
-<div align="center">
 
 ## 📊 GitHub Stats:
 <picture>
