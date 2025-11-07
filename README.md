@@ -31,7 +31,7 @@
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/s4il21?style=for-the-badge&color=00bfff&labelColor=0d1117&label=Followers)](https://github.com/FragmentosTemporales?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/FragmentosTemporales?style=for-the-badge&color=00bfff&labelColor=0d1117&label=Followers)](https://github.com/FragmentosTemporales?tab=followers)
 ![Profile Views](https://komarev.com/ghpvc/?username=FragmentosTemporales&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views)
 
 </div>
