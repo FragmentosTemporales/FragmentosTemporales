@@ -10,18 +10,19 @@
 
 
 ---
+<div align="center">
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FragmentosTemporales&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FragmentosTemporales&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
 ## 📫 Conecta conmigo:
 - [Instagram][instagram]
 - [LinkedIn][linkedin]
 - [GitHub][github]
 
+</div>
 ---
 
 [linkedin]: https://www.linkedin.com/in/fragmentostemporales  
