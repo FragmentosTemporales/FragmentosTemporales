@@ -29,12 +29,12 @@
 
 ---
 ## 📫 Conecta conmigo:
-[Instagram][instagram]
-[LinkedIn][linkedin]
-[GitHub][github]
+[Instagram][instagram] | 
+[LinkedIn][linkedin] | 
+[GitHub][github] | 
 
-</div>
 ---
+</div>
 
 [linkedin]: https://www.linkedin.com/in/fragmentostemporales  
 [github]: https://github.com/FragmentosTemporales  
